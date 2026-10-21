@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1787193609 source:c:\users\usuario\documents\algoritmosp2\listacircular\listacircular.c
+
+1787195880 source:c:\users\usuario\documents\algoritmosp2\listacircular\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1787708318 source:c:\users\usuario\documents\universidad nacional de la matanza\ingenieria en informatica\2doanio\algoritmos y estructuras de datos\algoritmosp2\listacircular\main.c
+	"listaCircular.h"
+
+1787885479 c:\users\usuario\documents\universidad nacional de la matanza\ingenieria en informatica\2doanio\algoritmos y estructuras de datos\algoritmosp2\listacircular\listacircular.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

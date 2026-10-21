@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1785700267 source:c:\users\usuario\documents\universidad nacional de la matanza\ingenieria en informatica\2doaño\algoritmos y estructuras de datos\algoritmosp2\arbolbinariobusqueda\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1788471118 source:c:\users\usuario\documents\universidad nacional de la matanza\ingenieria en informatica\2doaño\algoritmos y estructuras de datos\algoritmosp2\arbolbinariobusqueda\abb.c
+	"ABB.h"
+
+1788470770 c:\users\usuario\documents\universidad nacional de la matanza\ingenieria en informatica\2doaño\algoritmos y estructuras de datos\algoritmosp2\arbolbinariobusqueda\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1785700267 source:c:\users\usuario\documents\universidad nacional de la matanza\ingenieria en informatica\2doanio\algoritmos y estructuras de datos\algoritmosp2\arbolbinariobusqueda\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1789330735 source:c:\users\usuario\documents\universidad nacional de la matanza\ingenieria en informatica\2doanio\algoritmos y estructuras de datos\algoritmosp2\arbolbinariobusqueda\abb.c
+	"ABB.h"
+
+1789330307 c:\users\usuario\documents\universidad nacional de la matanza\ingenieria en informatica\2doanio\algoritmos y estructuras de datos\algoritmosp2\arbolbinariobusqueda\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

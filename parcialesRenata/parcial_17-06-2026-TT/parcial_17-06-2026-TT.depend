@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1790611644 source:c:\users\usuario\documents\universidad nacional de la matanza\ingenieria en informatica\2doanio\algoritmos y estructuras de datos\algoritmosp2\parcialesrenata\parcial_17-06-2026-tt\lista.c
+	"lista.h"
+
+1790611629 c:\users\usuario\documents\universidad nacional de la matanza\ingenieria en informatica\2doanio\algoritmos y estructuras de datos\algoritmosp2\parcialesrenata\parcial_17-06-2026-tt\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1790619624 source:c:\users\usuario\documents\universidad nacional de la matanza\ingenieria en informatica\2doanio\algoritmos y estructuras de datos\algoritmosp2\parcialesrenata\parcial_17-06-2026-tt\main.c
+	"menu.h"
+	"funciones.h"
+
+1790620121 source:c:\users\usuario\documents\universidad nacional de la matanza\ingenieria en informatica\2doanio\algoritmos y estructuras de datos\algoritmosp2\parcialesrenata\parcial_17-06-2026-tt\funciones.c
+	"funciones.h"
+
+1790620253 c:\users\usuario\documents\universidad nacional de la matanza\ingenieria en informatica\2doanio\algoritmos y estructuras de datos\algoritmosp2\parcialesrenata\parcial_17-06-2026-tt\funciones.h
+	"lista.h"
+
+1790613909 source:c:\users\usuario\documents\universidad nacional de la matanza\ingenieria en informatica\2doanio\algoritmos y estructuras de datos\algoritmosp2\parcialesrenata\parcial_17-06-2026-tt\menu.c
+	"menu.h"
+
+1790612686 c:\users\usuario\documents\universidad nacional de la matanza\ingenieria en informatica\2doanio\algoritmos y estructuras de datos\algoritmosp2\parcialesrenata\parcial_17-06-2026-tt\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
