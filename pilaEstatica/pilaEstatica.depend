@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1785368375 source:c:\users\usuario\documents\algoritmosp2\pilaestatica\pilaestatica.c
-	"pilaEstatica.h"
-
-1785368266 c:\users\usuario\documents\algoritmosp2\pilaestatica\pilaestatica.h
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
